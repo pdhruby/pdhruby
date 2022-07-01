@@ -1,11 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdhruby&show_icons=true&theme=dark)
 
-### Hi there 👋
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdhruby&layout=compact)](https://github.com/pdhruby/github-readme-stats)
 
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=blue"/>
 
 <!--
 **pdhruby/pdhruby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
