@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 
-  <img src="https://img.shields.io/badge/jQuery-F7DF1E?style=flat&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=blue"/>
 
 <!--
 **pdhruby/pdhruby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
