@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&section=header&text=WellComeTO%20My%20World&fontSize=60&fontAlign=100)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&section=header&text=WellComeTO%20My%20World&fontSize=60)
 
 
 
